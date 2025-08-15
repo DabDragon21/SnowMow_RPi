@@ -8,7 +8,7 @@ SAVE_FOLDER = "paths"
 os.makedirs(SAVE_FOLDER, exist_ok=True)
 
 TOPIC = "heading"
-broker_ip = "10.0.0.31"  # Update to your broker IP
+broker_ip = "10.83.0.146"  # Update to your broker IP
 
 app = Flask(__name__)
 
